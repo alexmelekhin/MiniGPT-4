@@ -5,7 +5,7 @@ model:
   end_sym: "###"
   low_resource: True
   prompt_template: '###Human: {} ###Assistant: '
-  ckpt: 'please set this value to the path of pretrained checkpoint'
+  ckpt: /home/docker_minigpt4/MiniGPT-4/pretrained_minigpt4.pth
 
 
 datasets:
